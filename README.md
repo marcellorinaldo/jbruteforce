@@ -1,2 +1,3 @@
 # jbruteforce
-A pluggable brute-force attack framework based.
+
+A java-based password generator app for brute-force attacks.
